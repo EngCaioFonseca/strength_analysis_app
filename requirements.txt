@@ -1,9 +1,8 @@
-streamlit==1.31.0
-pandas==2.2.0
-numpy==1.26.3
-matplotlib==3.8.2
-scikit-learn==1.4.0
-tensorflow==2.15.0
-yfinance==0.2.36
-plotly==5.18.0
-SQLAlchemy==2.0.25
+
+streamlit
+pandas
+numpy
+matplotlib
+sqlalchemy
+base64
+datetime
