@@ -1,8 +1,5 @@
-
-streamlit
-pandas
-numpy
-matplotlib
-sqlalchemy
-base64
-datetime
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+sqlalchemy==2.0.27
